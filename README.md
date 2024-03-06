@@ -11,8 +11,6 @@
 * Bootstarp
 * HTML5
 * CSS3
-* MARC JORNET - PROPIETARI
-* DAVID BUESA - COL·LABORADOR
 ---
 #### Watch Demo : https://www.youtube.com/watch?v=ReipY-Eg9YY
 ---
